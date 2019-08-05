@@ -29,6 +29,7 @@ echo "Wa      : 087705736634" |lolcat -a -d 10
 echo "Fb      : TheKingg Termux" |lolcat -a -d 10
 echo "Ig      : thekingtermux" |lolcat -a -d 10
 echo "Yt      : Cari Sendiri " |lolcat -a -d 10
+echo "Rumah   : Cari Sendiri Jng Tanya" |lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 echo 'KUMPULAN SCRIPT NEWBIE1'|lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
@@ -37,6 +38,8 @@ echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 echo 'HARAP DIGUNAKAN DENGAN BIJAK'|lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 echo 'VERSI KE 2 AKAN DIRILIS SETELAH VERSI 1 DIRILIS :V'|lolcat -a -d 10
+echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
+echo 'SARAN SAYA PILIH NO 10 DULU SEBELUM MEMAKAI SCRIPT INI' |lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 
 ###################################################
@@ -55,6 +58,7 @@ sleep 1
 exit
 }
 
+
 echo $me"|"$pu"1"$me"|"$cy"["$cy"DarkFly""]"
 echo $me"|"$pu"2"$me"|"$cy"["$cy"DarkFBv6""]"
 echo $me"|"$pu"3"$me"|"$cy"["$cy"DarkFBv7""]"
@@ -66,7 +70,7 @@ echo $me"|"$pu"8"$me"|"$cy"["$cy"ShellPhish""]"$cy"[$cy"Phising""]"
 echo $me"|"$pu"9"$me"|"$cy"["$cy"STARKV2""]"
 echo $me"|"$pu"10"$me"|"$cy"["$cy"INSTALL BAHAN BAHAN YG DI PERLUKAN""]"
 echo $me"|"$pu"0"$me"|"$cy"["$cy"KELUAR""]"
-echo $bi"["$cy"TheKingTermux"$bi"]"$bi"["$cy"Pilih Nomornya mamank ""]"
+echo $bi"["$cy"TheKingTermux"$bi"]"$bi"["$cy"Pilih Nomornya mamank""]"
 echo $cy"╔"
 read -p"╚══>>" pil
 
