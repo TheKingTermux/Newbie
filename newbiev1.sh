@@ -13,6 +13,7 @@ ku='\033[33;1m' #kuning
 echo
 sh password.sh
 echo
+
 clear
 echo "卐卐卐卐卐卐卐卐   |/=\|   卐
               卐   |/=\|   卐
