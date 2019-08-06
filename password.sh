@@ -71,4 +71,6 @@ else
 figlet -f slant $cy"Login Gagal" |lolcat -a -d 10
 echo 'Password anda salah'
 echo 'Silakan Masukkan kembali'
+sleep 3
+exit
 fi
