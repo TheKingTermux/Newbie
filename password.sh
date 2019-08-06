@@ -1,13 +1,16 @@
 !/bin/sh
+
 figlet -f slant "LOGIN DLU YA!" |lolcat -a -d 10
+
 echo $cy'Masukkan Password Anda : '|lolcat -a -d 10
 read pw;
 
 if [ $pw = 'TKT' ];
 then
 echo 'Password anda benar' |lolcat -a -d 10
-echo 'Selamat datang di script ini' |lolcqt -a -d 10
+echo 'Selamat datang di script ini' |lolcat -a -d 10
 echo "[" $ij"Loading Script""]" |lolcat -a -d 10
+
 echo "[" $cy"=>                           ""]" $bi"5%" |lolcat -a -d 10
 echo "[" $cy"==>                          ""]" $bi"10%" |lolcat -a -d 10
 echo "[" $cy"===>                         ""]" $bi"15%" |lolcat -a -d 10
@@ -39,6 +42,8 @@ echo "[" $cy"============================>""]" $bi"100%" |lolcat -a -d 10
 
 clear
 figlet -f slant "Login Sukses" |lolcat -a -d 10
+echo $cy"Selamat Datang Di Kumpulan Script Newbie ;-) " |lolcat -a -d 10
+clear
 
 else
 figlet -f slant $cy"Login Gagal" |lolcat -a -d 10
