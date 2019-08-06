@@ -2,13 +2,34 @@
 
 figlet -f slant "LOGIN DLU YA!" |lolcat -a -d 10
 
-echo $cy'Masukkan Password Anda : '|lolcat -a -d 10
+echo $cy"Sudah Punya Passwordnya? " |lolcat -a -d 10
+echo $cy"Klo Sudah Silahkan Login " |lolcat -a -d 10
+echo $cy"Klo Belum Silahkan Chat Saya"|lolcat -a -d 10
+echo $cy"Wa : 0" |lolcat -a -d 10
+echo $cy"   :  8" |lolcat -a -d 10
+echo $cy"   :   7"|lolcat -a -d 10
+echo $cy"   :    7"|lolcat -a -d 10
+echo $cy"   :    0"|lolcat -a -d 10
+echo $cy"   :   5"|lolcat -a -d 10
+echo $cy"   :  7"|lolcat -a -d 10
+echo $cy"   : 3"|lolcat -a -d 10
+echo $cy"   : 6" |lolcat -a -d 10
+echo $cy"   :  6" |lolcat -a -d 10
+echo $cy"   :   3" |lolcat -a -d 10
+echo $cy"   :    4" |lolcat -a -d 10
+
+echo $cy'Masukkan Password Nya : '|lolcat -a -d 10
 read pw;
 
 if [ $pw = 'TKT' ];
 then
 echo 'Password anda benar' |lolcat -a -d 10
 echo 'Selamat datang di script ini' |lolcat -a -d 10
+
+sleep 3
+
+clear
+figlet -f slant "MASUK SC" |lolcat -a -d 10
 echo "[" $ij"Loading Script""]" |lolcat -a -d 10
 
 echo "[" $cy"=>                           ""]" $bi"5%" |lolcat -a -d 10
