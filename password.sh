@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 
 figlet -f slant "LOGIN DLU YA!" |lolcat -a -d 10
 
@@ -43,6 +43,7 @@ echo "[" $cy"============================>""]" $bi"100%" |lolcat -a -d 10
 clear
 figlet -f slant "Login Sukses" |lolcat -a -d 10
 echo $cy"Selamat Datang Di Kumpulan Script Newbie ;-) " |lolcat -a -d 10
+sleep 3
 clear
 
 else
