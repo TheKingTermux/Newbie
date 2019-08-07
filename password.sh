@@ -97,8 +97,9 @@ echo $cy'Password anda salah' |lolcat
 echo ""
 echo $cy'Keluar Script' |lolcat
 sleep 3
-exit
+exit ${1}
 fi
+}
 
       echo 'ERROR : Wrong Input....! '
       sleep 1
