@@ -73,5 +73,6 @@ figlet -f slant $cy"Login Gagal" |lolcat -a -d 10
 echo 'Password anda salah'
 echo 'Keluar Script'
 sleep 3
-exit
+exit 0
+exit 1
 fi
