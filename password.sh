@@ -2,7 +2,53 @@
 #Login.sh
 #DemiKeamananSilahkanLoginDlu
 
-figlet -f slant $cy"LoginDluYa!" |lolcat -a -d 10
+figlet -f slant $cy"Locked" |lolcat -a -d 10
+echo ""
+echo $cy"Database Script" |lolcat -a -d 10
+echo $cy"Hacker Detected" |lolcat -a -d 10
+echo $cy"Script Locked" |lolcat -a -d 10
+echo $cy"LOADING" |lolcat -a -d 2
+echo $cy"loading" |lolcat -a -d 2
+echo $cy"Loading" |lolcat -a -d 2
+echo $cy"lOading" |lolcat -a -d 2
+echo $cy"loAding" |lolcat -a -d 2
+echo $cy"loaDing" |lolcat -a -d 2
+echo $cy"loadIng" |lolcat -a -d 2
+echo $cy"loadiNg" |lolcat -a -d 2
+echo $cy"loadinG" |lolcat -a -d 2
+echo $cy"Cracking Script" |lolcat -a -d 10
+echo $cy"FAILED"|lolcat -a -d 10
+sleep 2
+clear
+
+echo $cy"-          /" |lolcat -a -d 1
+echo $cy"/          -" |lolcat -a -d 1
+echo $cy"-          \" |lolcat -a -d 1
+echo $cy"\          -" |lolcat -a -d 1
+echo $cy"-          /" |lolcat -a -d 1
+echo $cy"/          -" |lolcat -a -d 1
+echo $cy"-          \" |lolcat -a -d 1
+echo $cy"\          -" |lolcat -a -d 1
+echo $cy"-          /" |lolcat -a -d 1
+echo $cy"/          -" |lolcat -a -d 1
+echo $cy"-          \" |lolcat -a -d 1
+echo $cy"\          -" |lolcat -a -d 1
+echo $cy"-          /" |lolcat -a -d 1
+echo $cy"/          -" |lolcat -a -d 1
+echo $cy"-          \" |lolcat -a -d 1
+echo $cy"\          -" |lolcat -a -d 1
+echo $cy"-          /" |lolcat -a -d 1
+echo $cy"/          -" |lolcat -a -d 1
+echo $cy"-          \" |lolcat -a -d 1
+echo $cy"\          -" |lolcat -a -d 1
+echo $cy"-          /" |lolcat -a -d 1
+echo $cy"/          -" |lolcat -a -d 1
+echo $cy"-          \" |lolcat -a -d 1
+echo $cy"\          -" |lolcat -a -d 1
+sleep 2
+clear
+
+figlet -f slant $cy"LoginDlu Ya!" |lolcat -a -d 10
 
 echo $cy"Sudah Punya Passwordnya? " |lolcat -a -d 10
 echo $cy"Klo Sudah Silahkan Login " |lolcat -a -d 10
@@ -78,9 +124,7 @@ echo $cy'Password anda salah' |lolcat
 echo ""
 echo $cy'Keluar Script' |lolcat
 sleep 3
-
 exit 1
-
 fi
 
 done
