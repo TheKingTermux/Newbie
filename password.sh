@@ -1,22 +1,24 @@
 #!/bin/sh
+#Login.sh
+#DemiKeamananSilahkanLoginDlu
 
-figlet -f slant "LOGIN DLU YA!" |lolcat -a -d 10
+figlet -f slant $cy"LoginDluYa!" |lolcat -a -d 10
 
 echo $cy"Sudah Punya Passwordnya? " |lolcat -a -d 10
 echo $cy"Klo Sudah Silahkan Login " |lolcat -a -d 10
 echo $cy"Klo Belum Silahkan Chat Saya"|lolcat -a -d 10
-echo $cy"Wa : 0" |lolcat -a -d 10
-echo $cy"   :  8" |lolcat -a -d 10
-echo $cy"   :   7"|lolcat -a -d 10
-echo $cy"   :    7"|lolcat -a -d 10
-echo $cy"   :    0"|lolcat -a -d 10
-echo $cy"   :   5"|lolcat -a -d 10
-echo $cy"   :  7"|lolcat -a -d 10
-echo $cy"   : 3"|lolcat -a -d 10
-echo $cy"   : 6" |lolcat -a -d 10
-echo $cy"   :  6" |lolcat -a -d 10
-echo $cy"   :   3" |lolcat -a -d 10
-echo $cy"   :    4" |lolcat -a -d 10
+echo $cy"Wa : 0" |lolcat -a -d 5
+echo $cy"   :  8" |lolcat -a -d 5
+echo $cy"   :   7"|lolcat -a -d 5
+echo $cy"   :    7"|lolcat -a -d 5
+echo $cy"   :    0"|lolcat -a -d 5
+echo $cy"   :   5"|lolcat -a -d 5
+echo $cy"   :  7"|lolcat -a -d 5
+echo $cy"   : 3"|lolcat -a -d 5
+echo $cy"   : 6" |lolcat -a -d 5
+echo $cy"   :  6" |lolcat -a -d 5
+echo $cy"   :   3" |lolcat -a -d 5
+echo $cy"   :    4" |lolcat -a -d 5
 
 echo $cy'Masukkan Password Nya : '|lolcat -a -d 10
 read pw;
@@ -32,7 +34,7 @@ clear
 figlet -f slant "MASUK SC" |lolcat -a -d 10
 echo ""
 echo "[" $ij"Loading Script""]" |lolcat -a -d 10
-
+echo ""
 echo "[" $cy"=>                           ""]" $bi"5%" |lolcat -a -d 10
 echo "[" $cy"==>                          ""]" $bi"10%" |lolcat -a -d 10
 echo "[" $cy"===>                         ""]" $bi"15%" |lolcat -a -d 10
@@ -64,15 +66,19 @@ echo "[" $cy"============================>""]" $bi"100%" |lolcat -a -d 10
 
 clear
 figlet -f slant "Login Sukses" |lolcat -a -d 10
+echo ""
 echo $cy"Selamat Datang Di Kumpulan Script Newbie ;-) " |lolcat -a -d 10
 sleep 3
 clear
 
 else
 figlet -f slant $cy"Login Gagal" |lolcat -a -d 10
-echo 'Password anda salah'
-echo 'Keluar Script'
+echo ""
+echo $cy'Password anda salah' |lolcat
+echo ""
+echo $cy'Keluar Script' |lolcat
 sleep 3
-exit 0
-exit 1
+exit 
 fi
+
+done
