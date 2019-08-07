@@ -21,33 +21,6 @@ echo $cy"FAILED"|lolcat -a -d 10
 sleep 2
 clear
 
-echo $cy"-          /" |lolcat -a -d 1
-echo $cy"/          -" |lolcat -a -d 1
-echo $cy"-          \" |lolcat -a -d 1
-echo $cy"\          -" |lolcat -a -d 1
-echo $cy"-          /" |lolcat -a -d 1
-echo $cy"/          -" |lolcat -a -d 1
-echo $cy"-          \" |lolcat -a -d 1
-echo $cy"\          -" |lolcat -a -d 1
-echo $cy"-          /" |lolcat -a -d 1
-echo $cy"/          -" |lolcat -a -d 1
-echo $cy"-          \" |lolcat -a -d 1
-echo $cy"\          -" |lolcat -a -d 1
-echo $cy"-          /" |lolcat -a -d 1
-echo $cy"/          -" |lolcat -a -d 1
-echo $cy"-          \" |lolcat -a -d 1
-echo $cy"\          -" |lolcat -a -d 1
-echo $cy"-          /" |lolcat -a -d 1
-echo $cy"/          -" |lolcat -a -d 1
-echo $cy"-          \" |lolcat -a -d 1
-echo $cy"\          -" |lolcat -a -d 1
-echo $cy"-          /" |lolcat -a -d 1
-echo $cy"/          -" |lolcat -a -d 1
-echo $cy"-          \" |lolcat -a -d 1
-echo $cy"\          -" |lolcat -a -d 1
-sleep 2
-clear
-
 figlet -f slant $cy"LoginDlu Ya!" |lolcat -a -d 10
 
 echo $cy"Sudah Punya Passwordnya? " |lolcat -a -d 10
@@ -124,7 +97,10 @@ echo $cy'Password anda salah' |lolcat
 echo ""
 echo $cy'Keluar Script' |lolcat
 sleep 3
-exit 1
+exit
 fi
 
+      echo 'ERROR : Wrong Input....! '
+      sleep 1
+      echo $ulang
 done
