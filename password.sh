@@ -39,6 +39,15 @@ echo $cy"   :  6" |lolcat -a -d 3
 echo $cy"   :   3" |lolcat -a -d 3
 echo $cy"   :    4" |lolcat -a -d 3
 
+echo $cy'Masukkan Usernamenya  :'|lolcat -a -d 10
+read user;
+
+if [ $user = 'TKT' ];
+then
+echo 'Username Anda benar' |lolcat -a -d 10
+echo 'Silahkan masukkan Password Nya : '|lolcat -a -d 10
+clear
+
 echo $cy'Masukkan Password Nya : '|lolcat -a -d 10
 read pw;
 
