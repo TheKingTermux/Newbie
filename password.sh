@@ -30,6 +30,7 @@ sleep 3
 
 clear
 figlet -f slant "MASUK SC" |lolcat -a -d 10
+echo ""
 echo "[" $ij"Loading Script""]" |lolcat -a -d 10
 
 echo "[" $cy"=>                           ""]" $bi"5%" |lolcat -a -d 10
@@ -72,5 +73,5 @@ figlet -f slant $cy"Login Gagal" |lolcat -a -d 10
 echo 'Password anda salah'
 echo 'Keluar Script'
 sleep 3
-sys.exit()
+exit
 fi
