@@ -7,18 +7,18 @@ figlet -f slant $cy"LoginDluYa!" |lolcat -a -d 10
 echo $cy"Sudah Punya Passwordnya? " |lolcat -a -d 10
 echo $cy"Klo Sudah Silahkan Login " |lolcat -a -d 10
 echo $cy"Klo Belum Silahkan Chat Saya"|lolcat -a -d 10
-echo $cy"Wa : 0" |lolcat -a -d 5
-echo $cy"   :  8" |lolcat -a -d 5
-echo $cy"   :   7"|lolcat -a -d 5
-echo $cy"   :    7"|lolcat -a -d 5
-echo $cy"   :    0"|lolcat -a -d 5
-echo $cy"   :   5"|lolcat -a -d 5
-echo $cy"   :  7"|lolcat -a -d 5
-echo $cy"   : 3"|lolcat -a -d 5
-echo $cy"   : 6" |lolcat -a -d 5
-echo $cy"   :  6" |lolcat -a -d 5
-echo $cy"   :   3" |lolcat -a -d 5
-echo $cy"   :    4" |lolcat -a -d 5
+echo $cy"Wa : 0" |lolcat -a -d 3
+echo $cy"   :  8" |lolcat -a -d 3
+echo $cy"   :   7"|lolcat -a -d 3
+echo $cy"   :    7"|lolcat -a -d 3
+echo $cy"   :    0"|lolcat -a -d 3
+echo $cy"   :   5"|lolcat -a -d 3
+echo $cy"   :  7"|lolcat -a -d 3
+echo $cy"   : 3"|lolcat -a -d 3
+echo $cy"   : 6" |lolcat -a -d 3
+echo $cy"   :  6" |lolcat -a -d 3
+echo $cy"   :   3" |lolcat -a -d 3
+echo $cy"   :    4" |lolcat -a -d 3
 
 echo $cy'Masukkan Password Nya : '|lolcat -a -d 10
 read pw;
@@ -62,8 +62,8 @@ echo "[" $cy"========================>    ""]" $bi"96%" |lolcat -a -d 10
 echo "[" $cy"=========================>   ""]" $bi"97%" |lolcat -a -d 10
 echo "[" $cy"==========================>  ""]" $bi"98%" |lolcat -a -d 10
 echo "[" $cy"===========================> ""]" $bi"99%" |lolcat -a -d 10
-echo "[" $cy"============================>""]" $bi"100%" |lolcat -a -d 10
-
+echo "[" $cy"============================>""]" $bi"99.5%" |lolcat -a -d 10
+echo "[" $cy"=============================""]" $bi"100%" |lolcat -a -d 10
 clear
 figlet -f slant "Login Sukses" |lolcat -a -d 10
 echo ""
@@ -78,7 +78,9 @@ echo $cy'Password anda salah' |lolcat
 echo ""
 echo $cy'Keluar Script' |lolcat
 sleep 3
-exit 
+
+exit 1
+
 fi
 
 done
