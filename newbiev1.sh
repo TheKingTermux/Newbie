@@ -26,7 +26,7 @@ echo "卐卐卐卐卐卐卐卐   |/=\|   卐
  卐   |/=\|   卐
  卐   |/=\|   卐
  卐   |/=\|   卐卐卐卐卐卐卐卐" |lolcat -a -d 10
-figlet -f slant "newbie1" |lolcat -a -d 10
+figlet -f slant "newbie 1" |lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 echo "Name    : TheKingTermux" |lolcat -a -d 10
 echo "Github  : TermuxIna" |lolcat -a -d 10
