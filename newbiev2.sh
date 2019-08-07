@@ -26,7 +26,7 @@ echo "卐卐卐卐卐卐卐卐   |/=\|   卐
  卐   |/=\|   卐
  卐   |/=\|   卐
  卐   |/=\|   卐卐卐卐卐卐卐卐" |lolcat -a -d 10
-figlet -f slant "newbie2" |lolcat -a -d 10
+figlet -f slant "newbie 2" |lolcat -a -d 10
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 echo "Name    : TheKingTermux" |lolcat -a -d 10
 echo "Github  : TermuxIna" |lolcat -a -d 10
@@ -123,7 +123,7 @@ echo "••••••••••••••••••••••••�
 echo $cy"29.ShortLink"
 echo "••••••••••••••••••••••••••••••••" | lolcat
 echo $bi"30.Dorking"
-echo "••••••••••••••••••••lolcat ••••••" | lolcat
+echo "••••••••••••••••••••••••••••••••" | lolcat
 echo $ij"99.Install Bahan"
 echo "••••••••••••••••••••••••••••••••" | lolcat
 echo $pu"00.Exit"
