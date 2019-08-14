@@ -7,15 +7,15 @@ echo ""
 echo $cy"Database Script" |lolcat -a -d 10
 echo $cy"Hacker Detected" |lolcat -a -d 10
 echo $cy"Script Locked" |lolcat -a -d 10
-echo $cy"LOADING" |lolcat -a -d 2
-echo $cy"loading" |lolcat -a -d 2
-echo $cy"Loading" |lolcat -a -d 2
-echo $cy"lOading" |lolcat -a -d 2
-echo $cy"loAding" |lolcat -a -d 2
-echo $cy"loaDing" |lolcat -a -d 2
-echo $cy"loadIng" |lolcat -a -d 2
-echo $cy"loadiNg" |lolcat -a -d 2
-echo $cy"loadinG" |lolcat -a -d 2
+echo $cy"LOADING" |lolcat 
+echo $cy"loading" |lolcat 
+echo $cy"Loading" |lolcat
+echo $cy"lOading" |lolcat 
+echo $cy"loAding" |lolcat 
+echo $cy"loaDing" |lolcat 
+echo $cy"loadIng" |lolcat 
+echo $cy"loadiNg" |lolcat 
+echo $cy"loadinG" |lolcat 
 echo $cy"Cracking Script" |lolcat -a -d 10
 echo $cy"FAILED"|lolcat -a -d 10
 sleep 2
@@ -52,7 +52,7 @@ sleep 3
 clear
 figlet -f slant "MASUK SC" |lolcat -a -d 10
 echo ""
-echo "[" $ij"Loading Script""]" |lolcat -a -d 10
+echo "[" $ij"Loading Script" "]" |lolcat -a -d 10
 echo ""
 echo "[" $cy"=>                           " "]" $bi"5%" |lolcat -a -d 10
 echo "[" $cy"==>                          " "]" $bi"10%" |lolcat -a -d 10
