@@ -75,7 +75,7 @@ echo $me"|"$pu"8"$me"|"$cy"["$cy"ShellPhish""]"$cy"["$cy"Phising""]"
 echo $me"|"$pu"9"$me"|"$cy"["$cy"STARKV2""]"
 echo $me"|"$pu"10"$me"|"$cy"["$cy"INSTALL BAHAN BAHAN YG DI PERLUKAN""]"
 echo $me"|"$pu"0"$me"|"$cy"["$cy"KELUAR""]"
-echo $bi"["$cy"TheKingTermux"$bi"]"$bi"["$cy"Pilih Nomornya mamank""]"
+echo $bi"["$cy"TheKingTermux"$bi"]"$bi"["$cy"Pilih Nomornya mamank"$bi"]"
 echo $cy"╔"
 read -p"╚══>>" pil
 
