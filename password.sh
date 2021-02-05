@@ -46,9 +46,14 @@ if [ $pw = 'TKT' ];
 then
 echo 'Password anda benar' |lolcat -a -d 10
 echo 'Selamat datang di script ini' |lolcat -a -d 10
+else
+echo 'Maaf Password Anda Salah' |loocat -a -d 10
+print password.sh
 
 sleep 3
 
+if [ $pw = true ];
+Then
 clear
 figlet -f slant "MASUK SC" |lolcat -a -d 10
 echo ""
