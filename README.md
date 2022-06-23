@@ -1,4 +1,5 @@
 # Newbie
 This script created by TheKingTermux☣
 
-# This project has been shutdown permanently
+# Stats
+This project will never be updated again, it can be used for now but there are some tools that don't work or even can't be used.
