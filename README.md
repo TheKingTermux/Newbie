@@ -1,6 +1,6 @@
 | Build | Stable |
 |-------|----------|
-| ![CI](https://github.com/TheKingTermux/alice/workflows/CI/badge.svg?branch=dev&event=push) | [![stable release](https://img.shields.io/github/release/tachiyomiorg/tachiyomi.svg?maxAge=3600&label=download)](https://github.com/TheKingTermux/alice/releases) |
+| ![CI](https://github.com/TheKingTermux/alice/workflows/CI/badge.svg?branch=master&event=push) | [![stable release](https://img.shields.io/github/release/tachiyomiorg/tachiyomi.svg?maxAge=3600&label=download)](https://github.com/TheKingTermux/alice/releases) |
 
 # Newbie
 This script created by TheKingTermux☣
