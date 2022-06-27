@@ -1,6 +1,3 @@
-| Build | Stable |
-|-------|----------|
-| ![CI](https://github.com/TheKingTermux/alice/workflows/CI/badge.svg?branch=master&event=push) | [![stable release](https://img.shields.io/badge/download-V%201.0.6.5-blue)](https://github.com/TheKingTermux/alice/releases) |
 
 # Newbie
 This script created by TheKingTermux☣
